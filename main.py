@@ -1,11 +1,5 @@
 # -*- coding:utf-8 -*-
 
-"""
-CoinMarketCap USD Price History
-
-  Print the CoinMarketCap USD price history for a particular cryptocurrency in CSV format.
-"""
-
 import sys
 import datetime
 import coinmarketcap_usd_history
