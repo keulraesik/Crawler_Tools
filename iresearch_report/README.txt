@@ -1,14 +1,14 @@
-ÅÀÈ¡°¬ÈðÍøµÄpdf±¨¸æ£¬ÓÃÓÚ½¨Òø¹ú¼Ê(Ïã¸Û)
+çˆ¬å–è‰¾ç‘žç½‘çš„pdfæŠ¥å‘Šï¼Œç”¨äºŽ**å›½é™…(é¦™æ¸¯)
 
-»·¾³£ºPython2.7
-     Èç¹ûÈ±Ê§¿â£¬¿ÉÒÔ°²×°Anaconda2.7,±ÈÈçÎÒ°²×°ÔÚÁËDÅÌ
+çŽ¯å¢ƒï¼šPython2.7
+     å¦‚æžœç¼ºå¤±åº“ï¼Œå¯ä»¥å®‰è£…Anaconda2.7,æ¯”å¦‚æˆ‘å®‰è£…åœ¨äº†Dç›˜
 
-Á÷³Ì£º
+æµç¨‹ï¼š
 
-ÔÚ´úÂëËùÔÚÎÄ¼þ¼ÐÖÐ´ò¿ªcmd´°¿Ú£¬ÊäÈë£º
+åœ¨ä»£ç æ‰€åœ¨æ–‡ä»¶å¤¹ä¸­æ‰“å¼€cmdçª—å£ï¼Œè¾“å…¥ï¼š
 D:\Anaconda\python  main.py 2017
-È»ºóµã»÷»Ø³µ¼ü£¬¼´¿É
+ç„¶åŽç‚¹å‡»å›žè½¦é”®ï¼Œå³å¯
 
-Í¬Àí£º
-Èç¹ûÏëÏÂÔØ206ÄêµÄËùÓÐÎÄ¼þ£¬ÊäÈë£º
+åŒç†ï¼š
+å¦‚æžœæƒ³ä¸‹è½½206å¹´çš„æ‰€æœ‰æ–‡ä»¶ï¼Œè¾“å…¥ï¼š
 D:\Anaconda\python  main.py 2016
