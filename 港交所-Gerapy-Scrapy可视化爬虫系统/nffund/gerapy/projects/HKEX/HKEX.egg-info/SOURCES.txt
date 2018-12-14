@@ -1,0 +1,13 @@
+setup.py
+HKEX/__init__.py
+HKEX/items.py
+HKEX/middlewares.py
+HKEX/pipelines.py
+HKEX/settings.py
+HKEX.egg-info/PKG-INFO
+HKEX.egg-info/SOURCES.txt
+HKEX.egg-info/dependency_links.txt
+HKEX.egg-info/entry_points.txt
+HKEX.egg-info/top_level.txt
+HKEX/spiders/__init__.py
+HKEX/spiders/hkex_spider.py
