@@ -1,8 +1,5 @@
-
-import pandas as pd
 import requests
 import json
-from bs4 import BeautifulSoup
 from pyquery import PyQuery as pq
 
 def pdf_file(url,file_name):
