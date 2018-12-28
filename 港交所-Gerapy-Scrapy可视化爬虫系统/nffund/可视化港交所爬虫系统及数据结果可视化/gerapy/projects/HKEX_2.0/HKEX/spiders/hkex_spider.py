@@ -11,7 +11,7 @@ class MySpider(scrapy.Spider):
     # allowed_domains = ['sc.hkex.com.hk']
 
     # start_urls = []
-    date = datetime(2018, 5, 7)
+    date = datetime(2018, 7, 7)
 
     base_url = 'https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/chi/csm/DailyStat/data_tab_daily_%sc.js'
 

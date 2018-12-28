@@ -29,7 +29,7 @@ class HkexPipeline(object):
         self.conn = pymysql.connect(user=dbuser, passwd=dbpass, db=dbname, host=dbhost, charset="utf8", use_unicode=True)
         self.cursor = self.conn.cursor()
         #清空表：
-        self.cursor.execute("truncate table draft;")
+        self.cursor.execute("truncate table four_market_version2;")
         self.conn.commit()
 
     def process_item(self, item, spider):
